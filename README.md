@@ -1,6 +1,6 @@
 # ToDoList
 
-![ToDoList](/ToDoList/Yapılacaklar.gif)
+![ToDoList](Yapılacaklar.gif)
 
 ## Project Overview
 
